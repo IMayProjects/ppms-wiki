@@ -10,7 +10,7 @@ permissions:
   deployments: write
 
 env:
-  INSTANCE: 'Writerside/pprs-dev-docs'
+  INSTANCE: 'Writerside/help'
   DOCKER_VERSION: 'latest'
   # IS_GROUP: 'true' # Uncomment to build a group
 
