@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="help"
+                 name="PPMS Guide"
+                 start-page="Welcome.md">
+
+    <toc-element topic="Welcome.md"/>
+    <toc-element toc-title="Getting Started">
+        <toc-element topic="Onboarding.md"/>
+        <toc-element topic="Login.md"/>
+        <toc-element topic="Session-Time.md"/>
+        <toc-element topic="Understanding-Your-Role.md"/>
+    </toc-element>
+    <toc-element toc-title="Planning &amp; Reporting">
+        <toc-element topic="Planning.md"/>
+        <toc-element topic="Reporting.md"/>
+        <toc-element topic="PM-Review.md"/>
+        <toc-element topic="CP-Review.md"/>
+    </toc-element>
+    <toc-element topic="Analytics-Dashboard.md"/>
+    <toc-element topic="System-Administration.md">
+        <toc-element topic="User-Management.md"/>
+        <toc-element topic="Programmes-Indicators.md"/>
+        <toc-element topic="Reporting-Periods.md"/>
+    </toc-element>
+</instance-profile>
