@@ -8,11 +8,11 @@ are in place, including Limited Session Time.
 Upon successfully logging in, you will be directed to a page relevant to your
 assigned [role](Understanding-Your-Role.md)
 
-![Dashboard View](../images/dashboard-landing.png)
+![Dashboard View](../images/dashboard-landing.png){width="720"}
 
 Notice that in the top bar there is a countdown timer.
 
-![dashboard-landing-session.png](../images/dashboard-landing-session.png)
+![dashboard-landing-session.png](../images/dashboard-landing-session.png){width="320"}
 
 When this time reaches 00:00, the system will return you to the login page.
 you can log in again to continue your work. This is to ensure the system is still being operated by the authorized user.

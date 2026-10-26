@@ -10,4 +10,8 @@
         <description>Created after removal of "This is the first topic" from PPMS Help</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="2e8e209b">
+        <description>Created after removal of "Reporting" from PPMS Guide</description>
+        <accepts>Reporting.html</accepts>
+    </rule>
 </rules>
