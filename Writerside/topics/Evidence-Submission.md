@@ -10,6 +10,6 @@ When done, you may proceed by clicking [Submit for Review](0:0){as="button" null
 
 after clicking, a confirmation prompt will appear:
 
-![capture-submit-confirm.png](../images/capture-submit-confirm.png)
+![capture-submit-confirm.png](../images/capture-submit-confirm.png){width="320"}
 
 Click [OK](0:0){as="button" nullable="true"} to confirm or  [Cancel](0:0){as="button" mode="outline" nullable="true"} to go back.

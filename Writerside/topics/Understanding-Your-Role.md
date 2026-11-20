@@ -24,7 +24,7 @@ achievement data with evidence. A capturer will have specific programmes assigne
 
 ### Programme Manager
 
-![Programme Review Dashboard](../images/programme-review-landing.png)
+![Programme Review Dashboard](../images/pm-review-landing.png)
 
 A `Programme Manager` can review, edit and approve the capturers submissions, as well as submit a Programme Overview.
 
