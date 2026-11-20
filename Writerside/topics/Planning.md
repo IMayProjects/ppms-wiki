@@ -8,13 +8,15 @@ As discussed in [](Understanding-Your-Role.md), this is the first page seen by a
 
 To continue with planning select a programme
 
-![](../images/capture-select-prog.png){width="620"}
+![](../images/capture-select-prog.png){width="420"}
 
 Then select the indicator to submit planning for.
 
 ![](../images/capture-select-indi.png){width="360"}
 
-Once selected you will be able to see the details of the indicator, as well as a planning form.
+Once selected you will be able to see the details of the indicator, as well as the planning form.
+
+<div style="page-break-after: always;"></div>
 
 > Notice the 5 tabs `Planning`, `Budget`, `Actuals`, `Challenges` and `POE & Submit`.
 > Each tab following planning is for quarterly reporting.
@@ -23,7 +25,8 @@ Once selected you will be able to see the details of the indicator, as well as a
 
 ![](../images/capture-indi-planning.png){width="620"}
 
-To view the [Technical Indicator Description](#select-your-desired-indicator), click on the **i** icon above the indicator's description.
+To view the [Technical Indicator Description](#select-your-desired-indicator), click on the **i** icon above the
+indicator's description.
 
 ![](../images/capture-tid.png){width="620"}
 
@@ -40,15 +43,15 @@ The fields on the planning form are as follows.
 1. **Performance Targets**
     - <shortcut>Annual Planned Target</shortcut> Specify the annual target.
     - <shortcut>Quarterly Planned Targets</shortcut> Specify the targets for all quarters. (Q1, Q2, Q3, Q4)
-2. **Funding Status** 
+2. **Funding Status**
     - <shortcut>Funded / Non-Funded </shortcut> (click on the button to switch between Funded & Non-Funded.)
     - <shortcut>Allocated Budget</shortcut> Specify the budget available for this indicator (only appears when the status is set to Funded)
-   
+
 ![](capture-key-activities.png) {width="720"}
 
 3. <shortcut>Key Activities Towards Achievement</shortcut> 
    Describe the key activities planned.
-   
+
 ![](../images/capture-poe.png){width="720"}
 
 4. <shortcut>Portfolio of Evidence</shortcut>
@@ -56,4 +59,5 @@ The fields on the planning form are as follows.
 
 ---
 
-Once all the required information is filled in click [Submit Planning](https://localhost){as="button"} at the bottom of the form.
+Once all the required information is filled in click [Submit Planning](https://localhost){as="button"} at the bottom of
+the form.

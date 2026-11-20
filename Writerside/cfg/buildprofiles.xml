@@ -3,11 +3,18 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <custom-css>custom.css</custom-css>
+        <header-logo>logo_thumb.png</header-logo>
+        <custom-favicons>tab-icon.png</custom-favicons>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
+
     <build-profile instance="help">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
+        <sitemap priority="0.35" change-frequency="monthly"/>
     </build-profile>
 
 </buildprofiles>
