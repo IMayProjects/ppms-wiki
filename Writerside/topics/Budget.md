@@ -1,25 +1,25 @@
 # Budget
 
-When reporting the planning tab wil not be available for editing. Your submission will begin with the `Budget` tab
+During the quarterly reporting cycle, the Planning tab is locked against further editing. Each quarterly submission begins on the **Budget** tab.
 
-## Confirm the budget.
+## Confirm the Budget
 
-On the Budget tab, you will be asked if the allocated budget has changed.
+On the Budget tab, indicate whether the allocated budget for the indicator has changed during the reporting quarter.
 
 ![budget-tab-no.png](../images/capture-budget-no.png){width="720"}
 
-If not you may proceed by clicking [Next: Actuals](#confirm-the-budget){as="button"}
+If the allocated budget remains unchanged, proceed by clicking [Next: Actuals](#confirm-the-budget){as="button"}.
 
-## Make amendments to the budget.
+## Amend the Budget
 
-If the budget has changed, click [Yes - Budget Changed](#make-amendments-to-the-budget){as="button"}
+If the budget has changed, click [Yes - Budget Changed](#amend-the-budget){as="button"}.
 
 ![budget-tab-yes.png](capture-budget-yes.png){width="720"}
 
-You must provide the following information:
+Provide the following mandatory information:
 
-1. The <shortcut>Revised Budget Amount</shortcut> in Rands.
-2. The <shortcut>Reason for Budget Change</shortcut>.
-3. The <shortcut>Budget Change POE</shortcut>. (All relevant documentation associated with the change.)
+1. <shortcut>Revised Budget Amount</shortcut>: The updated total budget amount in Rands (ZAR).
+2. <shortcut>Reason for Budget Change</shortcut>: A formal justification explaining the adjustment.
+3. <shortcut>Budget Change POE</shortcut>: Official supporting documentation and Portfolio of Evidence (POE) confirming the approved budget adjustment.
 
-When done, click [Next: Actuals](#confirm-the-budget){as="button"} to proceed with submitting achievement data.
+Once completed, click [Next: Actuals](#confirm-the-budget){as="button"} to proceed to actual performance reporting.

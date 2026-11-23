@@ -1,41 +1,35 @@
 # Submit a Programme Overview
 
-Once all indicators for a programme have been submitted, reviewed and approved, you will be able to submit a
-`Programme Overview`.
+Once all indicators within a programme have been submitted, reviewed, and approved, the Programme Manager can compile and submit the consolidated **Programme Overview Report**.
 
-## Navigate to the report module
+## Navigate to the Report Module
+
+To access the reporting module, select `Programme Overview` from the left navigation panel.
 
 ![pm-review-nav.png](../images/pm-review-nav.png)
 
-To begin, select `Programme Overview` from the navigation panel.
-
-A new page with the heading _"Programme Overview Report"_ will load.
+The system displays the **Programme Overview Report** interface.
 
 ![Programme Overview Report Module](../images/pmov-landing.png){width="720"}
 
-## Write your report
+## Complete the Report
 
-> The Programme Overview Report is a single page module, you can scroll to see all the fields.
+> The Programme Overview Report is a single-page form. Scroll down to view and complete all required sections.
 > ![](../images/pmov-scrolldown.png){width="380"}
-> {style="info"}
+{style="info"}
 
-A list of all your assigned programmes in the left navigation panel. To submit a report for a programme, select the
-desired programme from the navigation panel.
+The left navigation panel lists all assigned programmes. To draft a report, select the relevant programme from this panel.
 
-Once selected, you must fill in the following information:
+Once selected, complete the following sections:
 
-1. <shortcut>Challenges Encountered</shortcut> - Provide a statement on the current performance of the programme and its outlook for the remainder of the year.
-2. Budget & Expenditure
-    - Budget Summary: <shortcut>Total Programme Budget</shortcut>, <shortcut>Budget Allocated This Quarter</shortcut>,
-      and <shortcut>Actual Expenditure</shortcut>
-    - <shortcut>Budget Commentary</shortcut>  
-3. <shortcut>Indicator Progress Notes</shortcut> - Provide commentary on the progress of individual indicators.
-4. <shortcut>Way forward</shortcut> - Discuss plans, challenges and mitigations for maintaining or recovering progress for indicators and the programme.
+1. <shortcut>Performance &amp; Challenges</shortcut>: Provide an evaluative narrative on current programme performance and the operational outlook for the remainder of the financial year.
+2. **Budget and Expenditure**
+    - **Budget Summary**: Review and verify the <shortcut>Total Programme Budget</shortcut>, <shortcut>Budget Allocated This Quarter</shortcut>, and <shortcut>Actual Expenditure</shortcut>.
+    - <shortcut>Budget Commentary</shortcut>: Provide explanatory notes on budget utilization, underspending, or overspending.
+3. <shortcut>Indicator Progress Notes</shortcut>: Provide specific commentary on the progress and variances of individual indicators within the programme.
+4. <shortcut>Way Forward</shortcut>: Outline strategic plans, risk mitigations, and corrective actions to sustain or recover programme performance.
 
-Finally, once all information is complete, click [Submit to Corporate Planning](0:0){as="button"}
+Once all sections are complete, click [Submit to Corporate Planning](0:0){as="button"} to submit the report for executive review.
 
-
->If you are not yet finished and would like to return later to complete the report, click
-> [Save Draft](0:0){as="button"}
->All information added will be saved for you to continue editing later.
->{style="info"}
+> If you cannot complete the report in a single session, click [Save Draft](0:0){as="button"}. All entered information will be saved, allowing you to resume editing at a later time.
+{style="info"}

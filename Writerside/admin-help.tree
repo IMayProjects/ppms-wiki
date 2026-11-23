@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="admin-help"
+                  name="Administrator Manual"
+                  start-page="administrator-manual.md">
+    <toc-element topic="administrator-manual.md"/>
+    <toc-element topic="System-Administration.md">
+        <toc-element topic="User-Management.md"/>
+        <toc-element topic="Programmes-Indicators.md"/>
+        <toc-element topic="Reporting-Periods.md"/>
+    </toc-element>
+</instance-profile>

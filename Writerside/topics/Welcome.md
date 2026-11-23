@@ -1,6 +1,7 @@
 # Welcome
-Welcome to the official User Guide for the ECDoE's Programme Performance Monitoring System.
 
-![dashboard-landing.png](../images/dashboard-landing.png){width="840"}
+Welcome to the official User Guide for the Eastern Cape Department of Education (ECDoE) Programme Performance Monitoring System (PPMS).
 
-This application tracks the planning and reporting of programmes and Outcome Indicator achievement.
+![dashboard-landing.png](../images/dashboard-landing.png){width="720"}
+
+The PPMS platform facilitates and standardizes annual planning, quarterly performance reporting, and outcome indicator tracking across departmental programmes.

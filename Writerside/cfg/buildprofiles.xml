@@ -16,5 +16,10 @@
         </variables>
         <sitemap priority="0.35" change-frequency="monthly"/>
     </build-profile>
+    <build-profile instance="admin-help">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>

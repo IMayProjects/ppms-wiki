@@ -1,17 +1,14 @@
 # Onboarding
 
-To use this system you will require an account.
-To log in you will use an email and password combination.
+Access to the Programme Performance Monitoring System (PPMS) requires an active user account. Authentication is conducted using your departmental email address and password credentials.
 
-The email you use your departmental Microsoft Outlook email address. ie: The email address must end with `@ecdoe.gov.za`.
+You must use your official departmental Microsoft Outlook email address ending with `@ecdoe.gov.za`.
 
->If you...
+> If you:
 > 
-> 1. do not have an account,
-> 2. are not sure if you have an account, or
-> 3. have lost access to you account
+> 1. Do not possess an account,
+> 2. Are uncertain whether an account has been provisioned, or
+> 3. Have lost access to your existing account,
 >
-> contact your **System Administrator** for assistance 
-> with creating or recovering the account
+> Contact your **System Administrator** for assistance with account provisioning or credential recovery.
 {style="note"}
-

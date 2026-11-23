@@ -1,23 +1,19 @@
 # Limited Session Time
 
-It's important to understand that PPMS is a system handling sensitive data. For this reason, several security features
-are in place, including Limited Session Time.
+The Programme Performance Monitoring System (PPMS) processes sensitive departmental performance data. To maintain system security and prevent unauthorized access, automated session management controls are strictly enforced.
 
-## 1-Hour Log Out
+## 1-Hour Session Limit
 
-Upon successfully logging in, you will be directed to a page relevant to your
-assigned [role](Understanding-Your-Role.md)
+Upon successful authentication, you are directed to the landing page corresponding to your assigned [role](Understanding-Your-Role.md).
 
 ![Dashboard View](../images/dashboard-landing.png){width="720"}
 
-Notice that in the top bar there is a countdown timer.
+A session countdown timer is visible in the top navigation bar.
 
 ![dashboard-landing-session.png](../images/dashboard-landing-session.png){width="320"}
 
-When this time reaches 00:00, the system will return you to the login page.
-you can log in again to continue your work. This is to ensure the system is still being operated by the authorized user.
+When this timer reaches 00:00, the session expires and the system automatically redirects to the login screen. You may sign in again to resume your work. This mechanism ensures that active sessions remain restricted to verified users.
 
-## 10-Minute Idle Log Out
+## 10-Minute Inactivity Timeout
 
-If you are idle for 10 minutes (10 Minutes pass without you interacting with the application at all), you will be
-returned to the login page to ensure the application is not left unattended for extended periods of time.
+If the application detects 10 minutes of continuous inactivity (no interaction with the interface), your session terminates automatically, returning you to the login screen. This safeguard prevents unauthorized access at unattended workstations.

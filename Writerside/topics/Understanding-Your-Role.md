@@ -1,6 +1,6 @@
 # Understanding Your Role
 
-All PPMS Users are assigned a specific role. Each fulfills a different responsibility.
+Each PPMS user is assigned a specific role that governs their system access, workflow permissions, and operational responsibilities.
 
 ## Roles
 
@@ -8,35 +8,32 @@ All PPMS Users are assigned a specific role. Each fulfills a different responsib
 
 ![Analytics Dashboard](../images/dashboard-landing.png)
 
-The `Senior Management` role is granted to users authorized to view the data and analytics of all pogrammes and
-indicators.
+Users assigned the **Senior Management** role have read-only access to performance data, reports, and analytics across all departmental programmes and indicators.
 
 ### Auditor
 
-The `Auditor` role shares the same viewing permissions as `Senior Management` for audit purposes.
+Users assigned the **Auditor** role hold comprehensive read-only viewing permissions equivalent to Senior Management to facilitate independent audit and compliance verifications.
 
 ### Data Capturer
 
 ![Capturing Dashboard](../images/capture-landing.png)
 
-A `Data Capturer` is granted access to the data capture module, where they submit yearly planning and quarterly
-achievement data with evidence. A capturer will have specific programmes assigned to them.
+Users assigned the **Data Capturer** role are granted access to the data capture module. They are responsible for submitting annual planning targets and quarterly performance achievement data, accompanied by supporting Portfolio of Evidence (POE) documentation for their assigned programmes.
 
 ### Programme Manager
 
 ![Programme Review Dashboard](../images/pm-review-landing.png)
 
-A `Programme Manager` can review, edit and approve the capturers submissions, as well as submit a Programme Overview.
+Users assigned the **Programme Manager** role are responsible for reviewing, verifying, editing, and approving or rejecting submissions made by Data Capturers. In addition, Programme Managers compile and submit the consolidated Programme Overview report.
 
 ### Corporate Planning
 
 ![Corporate Review Dashboard.png](../images/corporate-review-landing.png)
 
-A user with the `Corporate Planning` role has the ability to perform a second level review of the Programme.
+Users assigned the **Corporate Planning** role conduct the second-level institutional review and approval of indicator submissions and Programme Overview reports across all departmental branches.
 
 ### System Administrator
 
 ![Admin Dashboard](../images/admin-landing.png)
 
-A user with the `SSystem Administrator` role handles user account management, permissions and reporting configurations.
-
+Users assigned the **System Administrator** role manage user accounts, assign roles and permissions, configure reporting cycles, and maintain system-level parameters.
